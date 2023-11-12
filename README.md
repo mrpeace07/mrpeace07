@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mr peace</h1>
-<h3 align="center">👨‍💻 Aspiring Software Developer | UI/UX Enthusiast | Web & App Developer | Python & AI/ML Enthusiast 🚀</h3>
+<h3 align="center">👨‍💻 Aspiring Software Developer | UI/UX Enthusiast| Web & App Developer | Python & AI/ML Enthusiast </h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrpeace07&color=0e75b6&style=flat)
 
