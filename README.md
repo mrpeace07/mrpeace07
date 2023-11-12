@@ -1,4 +1,6 @@
-[![NISHANTH](https://github.com/mrpeace07/mrpeace07/blob/main/NISHANTH.png)](https://github.com/mrpeace07/mrpeace07/blob/main/NISHANTH.png)
+![NISHANTH](https://raw.githubusercontent.com/mrpeace07/mrpeace07/main/NISHANTH.png)
+
+
 
 
 
