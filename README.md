@@ -23,7 +23,7 @@
  
 <div align="center"> 
    <a href="mailto:nishanthnish708@gmail.com">
-    <img src="https://img.shields.io/badge/nishanthnish708@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   <a href="https://www.linkedin.com/in/nishanth-s-35b515222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
