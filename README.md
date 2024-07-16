@@ -22,10 +22,8 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:nishanthnish708@gmail.com">nishanthnish708@gmail.com</a>
-
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+   <a href="mailto:nishanthnish708@gmail.com">
+    <img src="https://img.shields.io/badge/nishanth%20nish708%40gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   <a href="https://www.linkedin.com/in/nishanth-s-35b515222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -65,7 +63,7 @@
 
 <div align=center>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=mrpeace07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=mrpeace07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpeace07&theme=react&border_radius=10" alt="streak stats"/>
 
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpeace07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
