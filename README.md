@@ -63,7 +63,8 @@
 
 <div align="center">
     <img width="350" src="https://github-readme-stats.vercel.app/api?username=mrpeace07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="350" src="[https://github-readme-streak-stats.herokuapp.com/?user=mrpeace07&theme=react&border_radius=10](https://www.google.com/search?q=%5B!%5BGitHub+Streak%5D(https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fmrpeace07%3DDenverCoder1)%5D(https%3A%2F%2Fgit.io%2Fstreak-stats)&rlz=1C1RXQR_enIN1037IN1037&oq=%5B!%5BGitHub+Streak%5D(https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fmrpeace07%3DDenverCoder1)%5D(https%3A%2F%2Fgit.io%2Fstreak-stats)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwOTdqMGo5qAIAsAIB&sourceid=chrome&ie=UTF-8)" alt="streak stats" /><br/>
+  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpeace07&theme=react&border_radius=10" alt="streak stats" />
+<br/>
     
 </div>
 
