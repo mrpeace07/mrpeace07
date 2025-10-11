@@ -5,68 +5,71 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishanth+Suresha!;" />
 </h1>
 
-<h3 align="center"> Hello! I'm from Karnataka, India, passionate about UI/UX design, full-stack development, and exploring machine learning. 💻✨</h3>
+<h3 align="center"> Hello! I'm Nishanth from Karnataka, India 👋 </h3>
+
+<h3 align="center"> 
+🔹 Software Development Engineer in Test (SDET) @ Zeta  
+🔹 Passionate about Automation, Quality Engineering & Web Technologies  
+</h3>
 
 <br/>
 
 <div align="center">
- 
 
- 
- 🌱 I’m currently learning **ReactJS, AWS**
+🌱 I’m currently exploring **Advanced Playwright, AWS & CI/CD Pipelines**  
+💬 Ask me about **Playwright, Selenium, REST Assured, or API Automation**  
+⚙️ Skilled in **Test Automation | Frontend & API Testing | Jenkins | Manual QA**  
+⚡ Fun fact — *"Debugging feels like solving an anime villain’s backstory — full of twists, logic, and redemption!"* 😄  
 
-💬 Ask me about **Node.js, React, or anything [here](https://www.linkedin.com/in/nishanth-s-35b515222)**
+</div>
 
-⚡ Fun fact **Why do programmers prefer anime villains? Because they always have the best backstories and complex motivations – just like debugging code!**
+<br/>
 
- </div>
- 
 <div align="center"> 
-   <a href="mailto:nishanthnish708@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:nishanthnish708@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.linkedin.com/in/nishanth-s-35b515222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://mrpeace-portfolio.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,python,vscode,github,git," style="margin-right: 20px;" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,tailwind,nodejs,express,npm,mongodb,react,mysql," style="margin-left: 20px;" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,nodejs,express,react,mongodb,mysql,git,github,vscode,bootstrap,tailwind,figma,jenkins" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=selenium,aws" />
 </div>
-
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 Play a Game 🐍</h2>
+  <h2>🐍 Watch My Contribution Snake 🐍</h2>
   <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
- 
-
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mrpeace07/mrpeace07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<hr/>
+<br/><br/><hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
 
 <div align="center">
-    <img width="350" src="https://github-readme-stats.vercel.app/api?username=mrpeace07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=mrpeace07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpeace07&theme=react&border_radius=10" alt="streak stats" />
-<br/>
-    
 </div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">✨ "Breaking code to make it better, one test at a time." ✨</h3>
 
 
 <br/><br/>
