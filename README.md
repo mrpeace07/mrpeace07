@@ -23,12 +23,7 @@
 💡 Accidentally became a tester… and now loving every bit of breaking and building things!  
 🚀 Passionate about developing testing frameworks and tiny side projects that make life easier.  
 ⚡ Fun fact — *"Debugging feels like solving an anime villain’s backstory — full of twists, logic, and redemption!"* 😄  
-
-
 </div>
-
-<br/>
-
 <div align="center"> 
   <a href="mailto:nishanthnish708@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -42,7 +37,7 @@
 </div>
 
 <hr/>
-
+<br>
 <h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -58,13 +53,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,git,github,bootstrap,tailwind,figma,nodejs,express,react,mongodb" /><br><br>
 
 </div>
-
-
 </div>
-
-  <br><br>
 </div>
-
 <br/>
 <hr/>
 
