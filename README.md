@@ -8,18 +8,22 @@
 <h3 align="center"> Hello! I'm Nishanth from Karnataka, India 👋 </h3>
 
 <h3 align="center"> 
-🔹 Software Development Engineer in Test (SDET) @ Zeta  
-🔹 Passionate about Automation, Quality Engineering & Web Technologies  
+🔹 Software Development Engineer in Test (SDET) @ Zeta  <br>
+🔹 Passionate about Automation, Quality Engineering & Software And Web Development  
 </h3>
 
 <br/>
 
 <div align="center">
 
+🧠 Always curious — currently learning to write **"Hello, World!"** in as many programming languages as I can.  
 🌱 I’m currently exploring **Advanced Playwright, AWS & CI/CD Pipelines**  
 💬 Ask me about **Playwright, Selenium, REST Assured, or API Automation**  
-⚙️ Skilled in **Test Automation | Frontend & API Testing | Jenkins | Manual QA**  
+⚙️ Skilled in **Framework Development | Frontend & API Testing | Jenkins | Manual QA**  
+💡 Accidentally became a tester… and now loving every bit of breaking and building things!  
+🚀 Passionate about developing testing frameworks and tiny side projects that make life easier.  
 ⚡ Fun fact — *"Debugging feels like solving an anime villain’s backstory — full of twists, logic, and redemption!"* 😄  
+
 
 </div>
 
@@ -42,9 +46,23 @@
 <h2 align="center">⚒️ Technologies & Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,nodejs,express,react,mongodb,mysql,git,github,vscode,bootstrap,tailwind,figma,jenkins" />
+<div align="center">
+<div align="center">
+
+<div align="center">
+
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=javascript,java,jenkins,selenium,aws,idea,vscode,mysql" /><br><br>
+
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,bootstrap,tailwind,figma,nodejs,express,react,mongodb" /><br><br>
+
+</div>
+
+
+</div>
+
   <br><br>
-  <img src="https://skillicons.dev/icons?i=selenium,aws" />
 </div>
 
 <br/>
@@ -53,9 +71,7 @@
 <div align="center">
   <h2>🐍 Watch My Contribution Snake 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mrpeace07/mrpeace07/output/github-contribution-grid-snake.svg" />
-</div>
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <br/><br/><hr/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
